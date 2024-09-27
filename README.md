@@ -3,7 +3,7 @@
         <title>Слесарьтехника</title>
     </head>
     <body>
-        <p align="center"><font size="1000" color="cyan" face="Arial">Тема 1:Вводное занятие</font></p>
+        <p align="center"><font size="1000" color="cyan" face="Arial">Тема 0:Вводное занятие</font></p>
         <style>
            body{
             background:rgb(116, 111, 42);
